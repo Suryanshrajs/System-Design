@@ -10,16 +10,15 @@ If a user enters **`facebook.com`** in their browser:
 
 Latency can be represented as:
 
-Δt=t1+t2+t3Δt=t1+t2+t3
+Δt=t1+t2+t3
 
 Where:
 
-- t1t1 is the time taken for the request to reach the server.
-- t2t2 is the time taken for the response to reach back to the user.
-- t3t3 is the computation time on the server.
+- t1 is the time taken for the request to reach the server.
+- t2 is the time taken for the response to reach back to the user.
+- t3 is the computation time on the server.
 
 > Latency = Network Delay + Computation Delay
-> 
 
 ### **Monolithic vs. Distributed Architectures**
 
