@@ -5,7 +5,7 @@
 > Throughput = Data Transmitted / Unit of Time. It is also defined as Process Flow Rate
 > 
 
-For example, "I am making a video every sleeping day. I am making a video, I am making one video in 100 days." In this case, your throughput is one video per 100 days.
+For example, "I am making a video every day. I made 100 videos in 100 days." In this case, your throughput is one video per day.
 
 ### **🤔 Throughput in Distributed Systems**
 
@@ -35,5 +35,5 @@ Methods to improve throughput include:
 - **DM (Data Management):** Refers to efficient data handling and optimization.
 - **Caching:** Implement caching mechanisms.
 - **Distilled System:** Create a distilled system.
-- **Institute of Monoradhik Architecture Lord Balancer:** Using load balancers.
+- **Institute of Monoradhik Architecture Load Balancer:** Using load balancers.
 - **Scaling Resources:** Upgrade resources.
