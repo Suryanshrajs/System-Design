@@ -1,6 +1,3 @@
-⚙️ Intro to System Design
-In this video, we'll explore the definition of system design and its types.
-
 ✍️ What is System Design?
 System design is the process of designing the different elements of a system. Think of a large application; system design is the procedure of defining its elements.
 
